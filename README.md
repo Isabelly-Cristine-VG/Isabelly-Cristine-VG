@@ -1,4 +1,4 @@
-<img src="asset/banner github.png" alt="bem vindo!">
+![Banner](assets/banner.png)
 
 <!--
 **Isabelly-Cristine-VG/Isabelly-Cristine-VG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
