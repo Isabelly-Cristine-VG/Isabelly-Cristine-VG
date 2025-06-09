@@ -1,4 +1,4 @@
-<img src="assets/banner-github.png" style="border-radius: 10px;">
+<img src="assets/banner-git.png" style="border-radius: 10px;">
 
 <!--
 **Isabelly-Cristine-VG/Isabelly-Cristine-VG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
