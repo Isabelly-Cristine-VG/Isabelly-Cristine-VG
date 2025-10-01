@@ -3,7 +3,7 @@
 <h1>Olá! Meu nome é Isabelly!</h1>
 <h3><img src="assets/3d-computer.png">Atualmente cursando Ciências da Computação na faculdade: SPTech</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isabelly-Cristine-VG_icons=true&theme=radical)
+[![card](https://github-readme-stats.vercel.app/api?username=Isabelly-Cristine-VG&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
  
  
