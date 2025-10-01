@@ -3,11 +3,7 @@
 <h1>Olá! Meu nome é Isabelly!</h1>
 <h3><img src="assets/3d-computer.png">Atualmente cursando Ciências da Computação na faculdade: SPTech</h3>
 
-<div align="center">
-  <a href="https://github.com/Isabelly-Cristine-VG">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isahCris&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelly-Cristine-VG&layout=compact&langs_count=7&theme=black"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
  
  
