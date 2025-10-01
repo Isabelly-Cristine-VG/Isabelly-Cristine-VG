@@ -28,5 +28,5 @@
    
    ##
  <div>
-   <a href = "mailto:isa.cris.vgodoi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">      </a>
+   <a href = "mailto:isa.cris.vgodoi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">      </a><a href = "instagram.com/iis_ahh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">      </a>
  </div>
