@@ -3,6 +3,7 @@
 <h1>Olá! Meu nome é Isabelly!</h1>
 <h3><img src="assets/3d-computer.png">Atualmente cursando Ciências da Computação na faculdade: SPTech</h3>
 
+ [Recriando o jogo da cobrinha com JavaScript](https://web.dio.me/project/recriando-o-jogo-da-cobrinha-com-javascript/learning/bfcd37b9-4ccf-40fb-b0ea-c2d865414a19?back=/track/html-web-developer&tab=undefined&moduleId=undefined)
 
 [![card](https://github-readme-stats.vercel.app/api?username=Isabelly-Cristine-VG&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
