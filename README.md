@@ -8,7 +8,8 @@
 <br>
 [![Isabelly-Cristine-VG](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelly-Cristine-VG&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/Isabelly-Cristine-VG/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://Isabelly-Cristine-VG.github.io/Isabelly-Cristine-VG/github-contribution-grid-snake.svg)
+
 
  <h1>Conhecimentos:</h1>
 
